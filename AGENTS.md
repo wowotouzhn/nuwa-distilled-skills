@@ -6,7 +6,7 @@ This repository contains three task-specific Codex Skills in `.agents/skills/`. 
 
 - **Xiaohongshu / 小红书**: For account positioning, zero-follower launch, content topics, titles/covers, growth, metrics, product recommendations and monetization, read `.agents/skills/xiaohongshu-ops-framework/SKILL.md` and follow its linked full methodology at `xiaohongshu-ops-framework/SKILL.md`.
 - **WeChat Channels / 微信视频号**: For 视频号 positioning, launch, videos, livestreams, growth, WeChat ecosystem and private-domain conversion, read `.agents/skills/wechat-channels-ops-framework/SKILL.md` and its linked methodology at `wechat-channels-ops-framework/SKILL.md`.
-- **English learning / 英语学习**: For lessons, grammar, listening, speaking, reading, writing, vocabulary, correction, study plans or error review, read `.agents/skills/english-learning-coach/SKILL.md` and `.agents/skills/english-learning-coach/ORIGINAL_SKILL.md`.
+- **English learning / 英语学习**: For lessons, grammar, listening, speaking, reading, writing, vocabulary, correction, study plans or error review, read `.agents/skills/english-learning-coach/SKILL.md` and `.agents/skills/english-learning-coach/ORIGINAL_SKILL.md`. For study planning or training-method selection, also consult `.agents/skills/english-learning-coach/references/programmers-guide-methods.md` (an attributed adaptation of an external guide, not another Skill).
 
 ## Execution rules
 
