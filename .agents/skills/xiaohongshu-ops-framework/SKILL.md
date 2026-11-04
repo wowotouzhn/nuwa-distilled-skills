@@ -1,6 +1,6 @@
 ---
 name: xiaohongshu-ops-framework
-description: 小红书运营、零粉起号、账号定位、涨粉、笔记选题、封面标题、内容规划、数据复盘、种草和带货变现时使用；包括用户只说“帮我做小红书”“第一周发什么”“为什么没流量”“如何提高收藏和关注”等自然提问。优先读取本 Skill 并依据完整方法论回答，勿仅凭简介作答。
+description: 旧版小红书运营方法论，仅当用户明确要求使用 xiaohongshu-ops-framework、旧版 Skill 或比较旧方法时调用。日常小红书运营任务优先使用 space-xhs-buddy 及其专项 Skill；不要将本旧版 Skill 与新版自动混用。
 ---
 
 # 小红书运营 Skill

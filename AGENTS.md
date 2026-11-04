@@ -1,10 +1,10 @@
 # Codex repository guidance
 
-This repository contains three task-specific Codex Skills in `.agents/skills/`. Use them for relevant user requests, including requests written in Chinese. The metadata alone is not the full instruction set.
+This repository contains task-specific Codex Skills in `.agents/skills/` for three domains, including a modular Xiaohongshu workflow. Use them for relevant user requests, including requests written in Chinese. The metadata alone is not the full instruction set.
 
 ## Skill routing
 
-- **Xiaohongshu / 小红书**: For account positioning, zero-follower launch, content topics, titles/covers, growth, metrics, product recommendations and monetization, read `.agents/skills/xiaohongshu-ops-framework/SKILL.md` and follow its linked full methodology at `xiaohongshu-ops-framework/SKILL.md`.
+- **Xiaohongshu / 小红书**: Default to `.agents/skills/space-xhs-buddy/SKILL.md` for multi-step tasks; use specialized `.agents/skills/space-xhs-positioning/`, `space-xhs-hotspot/`, `space-xhs-writer/`, `space-xhs-title/`, `space-xhs-cover/`, `xhs-html/`, `space-xhs-image/`, `space-xhs-account-audit/`, and `space-xhs-note-analytics/` for focused tasks. Read the actual `SKILL.md` of each selected module before work. Keep `.agents/skills/xiaohongshu-ops-framework/` as a legacy reference, used only if explicitly requested. Do not claim real-time Xiaohongshu data without an available verified source; external APIs, browser access, image generation, and rendering tools may be unavailable.
 - **WeChat Channels / 微信视频号**: For 视频号 positioning, launch, videos, livestreams, growth, WeChat ecosystem and private-domain conversion, read `.agents/skills/wechat-channels-ops-framework/SKILL.md` and its linked methodology at `wechat-channels-ops-framework/SKILL.md`.
 - **English learning / 英语学习**: For lessons, grammar, listening, speaking, reading, writing, vocabulary, correction, study plans or error review, read `.agents/skills/english-learning-coach/SKILL.md` and `.agents/skills/english-learning-coach/ORIGINAL_SKILL.md`. For study planning or training-method selection, also consult `.agents/skills/english-learning-coach/references/programmers-guide-methods.md` (an attributed adaptation of an external guide, not another Skill).
 
