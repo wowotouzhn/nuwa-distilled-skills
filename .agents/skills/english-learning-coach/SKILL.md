@@ -1,6 +1,6 @@
 ---
 name: english-learning-coach
-description: Personalized English tutoring with grammar, listening, speaking, reading, writing, corrections, and learning progress tracking.
+description: 当用户想学英语、开始今日英语课、练口语或听力、学语法、背单词、练阅读或写作、纠正英文、复习错题、安排英语学习计划时使用；包括“今天学英语”“陪我练英语”“这句英文哪里错了”等中文请求。Teach mainly in Chinese, personalize practice, and read the full skill before tutoring.
 ---
 
 # English Learning Coach
