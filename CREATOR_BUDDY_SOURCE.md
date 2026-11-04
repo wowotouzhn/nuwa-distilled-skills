@@ -11,4 +11,4 @@ This installation copies 10 Xiaohongshu Skills with their supporting references,
 
 Some capabilities are conditional: trend/competitor data may require API keys or external tools; HTML rendering may require Playwright; image generation requires a supported image backend. Do not claim any of these were configured or tested merely because files were installed.
 
-The legacy `xiaohongshu-ops-framework` remains intact for explicit use. Routing guidance in `AGENTS.md` prefers the new modular skills.
+The former `xiaohongshu-ops-framework` files were removed from the active branch after the modular skills replaced them. Historical versions remain available in Git commit history. Routing guidance in `AGENTS.md` selects the new modular skills.
